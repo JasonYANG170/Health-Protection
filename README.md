@@ -7,4 +7,5 @@
 # 项目计划
 2023年2月24启动，并发布首个测试版本。
 发布V2.0.0正式版，现可使用。
-# 程序界面![屏幕截图(657)](https://user-images.githubusercontent.com/39414350/216753536-6f5bc206-6fef-4634-b092-5bccb3f35ff3.png)
+# 程序界面
+![屏幕截图(659)](https://user-images.githubusercontent.com/39414350/216753885-a2079f0b-4a8f-4450-8d5a-a85b33b57f52.png)

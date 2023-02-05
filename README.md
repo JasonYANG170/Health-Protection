@@ -11,5 +11,6 @@
 4.按您需求可以选择自动关闭功能，可每次开机发出通知后自动关闭程序。
 
 （这是重大操作，如使用此功能后您需要重新设置内容请在下次打开程序后5S内点击停用自动关闭。）
-# 程序界面![屏幕截图(675)](https://user-images.githubusercontent.com/39414350/216811553-992bfea5-3027-4a51-bfa9-ba9dc7903818.png)
+# 程序界面 
+![屏幕截图(675)](https://user-images.githubusercontent.com/39414350/216811553-992bfea5-3027-4a51-bfa9-ba9dc7903818.png)
 ![屏幕截图(674)](https://user-images.githubusercontent.com/39414350/216811556-d4ae74f6-9d1b-4e99-9247-922938416049.png)

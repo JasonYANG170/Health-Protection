@@ -1,7 +1,7 @@
 # 公告
 **堆栈缓存溢出BUG已经修复，现已发布V3.5.8版本**
 
-**本次BUG判定为jsoncpp配置问题**
+**本次BUG判定为jsoncpp库的编译配置问题（问题解决方案现已在我的CSDN博客公开，为开发者提供学术研究）**
 
 **我把本次BUG修复方法进行总结并发布在：https://blog.csdn.net/jason17000/article/details/129058288?spm=1001.2014.3001.5501**
 # YANG Auto Notice

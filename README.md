@@ -1,4 +1,8 @@
 # 公告
+**项目更名为"健康守护"**
+
+**现已将WindowsToolBoxLite、AutoDarkMode、exeStop、AutoNotice四个项目合并为"健康守护"。**
+
 **堆栈缓存溢出BUG已经修复，现已发布V3.5.8版本**
 
 **本次BUG判定为jsoncpp库的编译配置问题（问题解决方案现已在我的CSDN博客公开，为开发者提供学术研究）**

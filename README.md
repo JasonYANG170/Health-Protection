@@ -48,6 +48,11 @@
 2.您需要自行下载QT开发工具并配置好QT环境。
 
 3.打开Insider Preview预览版压缩包中".pro"后缀的文件，在QT中调试即可。
+
+## 支持环境
+1.非精简版WindowsXP以上操作系统（推荐Windows10以上系统）
+
+2.64位操作系统
 # 程序界面 
 ![屏幕截图(675)](https://user-images.githubusercontent.com/39414350/216811553-992bfea5-3027-4a51-bfa9-ba9dc7903818.png)
 ![屏幕截图(674)](https://user-images.githubusercontent.com/39414350/216811556-d4ae74f6-9d1b-4e99-9247-922938416049.png)

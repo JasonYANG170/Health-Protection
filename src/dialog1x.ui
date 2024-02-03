@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog1x</class>
+ <widget class="QDialog" name="Dialog1x">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>362</width>
+    <height>250</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout_2">
+   <item>
+    <widget class="QWidget" name="widget" native="true">
+     <property name="maximumSize">
+      <size>
+       <width>16777215</width>
+       <height>16777215</height>
+      </size>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">background-color: rgb(255, 255, 0);border:2px groove gray;border-radius:20px;padding:2px 4px;border-style: outset;</string>
+     </property>
+     <layout class="QGridLayout" name="gridLayout_3">
+      <item row="1" column="0">
+       <widget class="QRadioButton" name="radioButton_2">
+        <property name="styleSheet">
+         <string notr="true">QRadioButton{background-color: rgb(255, 255, 0);border:2px groove gray;border-radius:5px;padding:2px 4px;border-style: outset;font: 16pt &quot;华文琥珀&quot;;}
+QRadioButton:hover{background-color:rgb(229, 241, 251); color: black;}
+QRadioButton:pressed{background-color:rgb(204, 228, 247);border-style: inset;}
+</string>
+        </property>
+        <property name="text">
+         <string>每日英语</string>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="0">
+       <widget class="QRadioButton" name="radioButton_4">
+        <property name="styleSheet">
+         <string notr="true">QRadioButton{background-color: rgb(255, 255, 0);border:2px groove gray;border-radius:5px;padding:2px 4px;border-style: outset;font: 16pt &quot;华文琥珀&quot;;}
+QRadioButton:hover{background-color:rgb(229, 241, 251); color: black;}
+QRadioButton:pressed{background-color:rgb(204, 228, 247);border-style: inset;}
+</string>
+        </property>
+        <property name="text">
+         <string>每日新闻</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="1" rowspan="5">
+       <widget class="QGroupBox" name="groupBox">
+        <property name="styleSheet">
+         <string notr="true">border:2px groove gray;border-radius:10px;</string>
+        </property>
+        <property name="title">
+         <string>每日星座</string>
+        </property>
+        <layout class="QGridLayout" name="gridLayout">
+         <item row="0" column="0">
+          <widget class="QRadioButton" name="radioButton_6">
+           <property name="styleSheet">
+            <string notr="true">QRadioButton{background-color: rgb(170, 255, 255);;border:2px groove gray;border-radius:5px;padding:2px 4px;border-style: outset;}
+
+QRadioButton:hover{background-color:rgb(229, 241, 251); color: black;}
+QRadioButton:pressed{background-color:rgb(204, 228, 247);border-style: inset;}
+</string>
+           </property>
+           <property name="text">
+            <string>水瓶座</string>
+           </property>
+          </widget>
+         </item>
+         <item row="0" column="1">
+          <widget class="QRadioButton" name="radioButton_14">
+           <property name="styleSheet">
+            <string notr="true">QRadioButton{background-color: rgb(170, 255, 255);;border:2px groove gray;border-radius:5px;padding:2px 4px;border-style: outset;}
+
+QRadioButton:hover{background-color:rgb(229, 241, 251); color: black;}
+QRadioButton:pressed{background-color:rgb(204, 228, 247);border-style: inset;}
+</string>
+           </property>
+           <property name="text">
+            <string>狮子座</string>
+           </property>
+          </widget>
+         </item>
+         <item row="1" column="0">
+          <widget class="QRadioButton" name="radioButton_7">
+           <property name="styleSheet">
+            <string notr="true">QRadioButton{background-color: rgb(170, 255, 255);;border:2px groove gray;border-radius:5px;padding:2px 4px;border-style: outset;}
+
+QRadioButton:hover{background-color:rgb(229, 241, 251); color: black;}
+QRadioButton:pressed{background-color:rgb(204, 228, 247);border-style: inset;}
+</string>
+           </property>
+           <property name="text">
+            <string>双鱼座</string>
+           </property>
+          </widget>
+         </item>
+         <item row="1" column="1">
+          <widget class="QRadioButton" name="radioButton_17">
+           <property name="styleSheet">
+            <string notr="true">QRadioButton{background-color: rgb(170, 255, 255);;border:2px groove gray;border-radius:5px;padding:2px 4px;border-style: outset;}
+
+QRadioButton:hover{background-color:rgb(229, 241, 251); color: black;}
+QRadioButton:pressed{background-color:rgb(204, 228, 247);border-style: inset;}
+</string>
+           </property>
+           <property name="text">
+            <string>处女座</string>
+           </property>
+          </widget>
+         </item>
+         <item row="2" column="0">
+          <widget class="QRadioButton" name="radioButton_8">
+           <property name="styleSheet">
+            <string notr="true">QRadioButton{background-color: rgb(170, 255, 255);;border:2px groove gray;border-radius:5px;padding:2px 4px;border-style: outset;}
+
+QRadioButton:hover{background-color:rgb(229, 241, 251); color: black;}
+QRadioButton:pressed{background-color:rgb(204, 228, 247);border-style: inset;}
+</string>
+           </property>
+           <property name="text">
+            <string>白羊座</string>
+           </property>
+          </widget>
+         </item>
+         <item row="2" column="1">
+          <widget class="QRadioButton" name="radioButton_19">
+           <property name="styleSheet">
+            <string notr="true">QRadioButton{background-color: rgb(170, 255, 255);;border:2px groove gray;border-radius:5px;padding:2px 4px;border-style: outset;}
+
+QRadioButton:hover{background-color:rgb(229, 241, 251); color: black;}
+QRadioButton:pressed{background-color:rgb(204, 228, 247);border-style: inset;}
+</string>
+           </property>
+           <property name="text">
+            <string>天秤座</string>
+           </property>
+          </widget>
+         </item>
+         <item row="3" column="0">
+          <widget class="QRadioButton" name="radioButton_9">
+           <property name="styleSheet">
+            <string notr="true">QRadioButton{background-color: rgb(170, 255, 255);;border:2px groove gray;border-radius:5px;padding:2px 4px;border-style: outset;}
+
+QRadioButton:hover{background-color:rgb(229, 241, 251); color: black;}
+QRadioButton:pressed{background-color:rgb(204, 228, 247);border-style: inset;}
+</string>
+           </property>
+           <property name="text">
+            <string>金牛座</string>
+           </property>
+          </widget>
+         </item>
+         <item row="3" column="1">
+          <widget class="QRadioButton" name="radioButton_16">
+           <property name="styleSheet">
+            <string notr="true">QRadioButton{background-color: rgb(170, 255, 255);;border:2px groove gray;border-radius:5px;padding:2px 4px;border-style: outset;}
+
+QRadioButton:hover{background-color:rgb(229, 241, 251); color: black;}
+QRadioButton:pressed{background-color:rgb(204, 228, 247);border-style: inset;}
+</string>
+           </property>
+           <property name="text">
+            <string>天蝎座</string>
+           </property>
+          </widget>
+         </item>
+         <item row="4" column="0">
+          <widget class="QRadioButton" name="radioButton_10">
+           <property name="styleSheet">
+            <string notr="true">QRadioButton{background-color: rgb(170, 255, 255);;border:2px groove gray;border-radius:5px;padding:2px 4px;border-style: outset;}
+
+QRadioButton:hover{background-color:rgb(229, 241, 251); color: black;}
+QRadioButton:pressed{background-color:rgb(204, 228, 247);border-style: inset;}
+</string>
+           </property>
+           <property name="text">
+            <string>双子座</string>
+           </property>
+          </widget>
+         </item>
+         <item row="4" column="1">
+          <widget class="QRadioButton" name="radioButton_13">
+           <property name="styleSheet">
+            <string notr="true">QRadioButton{background-color: rgb(170, 255, 255);;border:2px groove gray;border-radius:5px;padding:2px 4px;border-style: outset;}
+
+QRadioButton:hover{background-color:rgb(229, 241, 251); color: black;}
+QRadioButton:pressed{background-color:rgb(204, 228, 247);border-style: inset;}
+</string>
+           </property>
+           <property name="text">
+            <string>射手座</string>
+           </property>
+          </widget>
+         </item>
+         <item row="5" column="0">
+          <widget class="QRadioButton" name="radioButton_11">
+           <property name="styleSheet">
+            <string notr="true">QRadioButton{background-color: rgb(170, 255, 255);;border:2px groove gray;border-radius:5px;padding:2px 4px;border-style: outset;}
+
+QRadioButton:hover{background-color:rgb(229, 241, 251); color: black;}
+QRadioButton:pressed{background-color:rgb(204, 228, 247);border-style: inset;}
+</string>
+           </property>
+           <property name="text">
+            <string>巨蟹座</string>
+           </property>
+          </widget>
+         </item>
+         <item row="5" column="1">
+          <widget class="QRadioButton" name="radioButton_15">
+           <property name="styleSheet">
+            <string notr="true">QRadioButton{background-color: rgb(170, 255, 255);;border:2px groove gray;border-radius:5px;padding:2px 4px;border-style: outset;}
+
+QRadioButton:hover{background-color:rgb(229, 241, 251); color: black;}
+QRadioButton:pressed{background-color:rgb(204, 228, 247);border-style: inset;}
+</string>
+           </property>
+           <property name="text">
+            <string>摩羯座</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </item>
+      <item row="4" column="0">
+       <widget class="QRadioButton" name="radioButton_5">
+        <property name="styleSheet">
+         <string notr="true">QRadioButton{background-color: rgb(255, 255, 0);border:2px groove gray;border-radius:5px;padding:2px 4px;border-style: outset;font: 16pt &quot;华文琥珀&quot;;}
+QRadioButton:hover{background-color:rgb(229, 241, 251); color: black;}
+QRadioButton:pressed{background-color:rgb(204, 228, 247);border-style: inset;}
+</string>
+        </property>
+        <property name="text">
+         <string>每日一曲（BETA）</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="0">
+       <widget class="QRadioButton" name="radioButton_3">
+        <property name="styleSheet">
+         <string notr="true">QRadioButton{background-color: rgb(255, 255, 0);border:2px groove gray;border-radius:5px;padding:2px 4px;border-style: outset;font: 16pt &quot;华文琥珀&quot;;}
+QRadioButton:hover{background-color:rgb(229, 241, 251); color: black;}
+QRadioButton:pressed{background-color:rgb(204, 228, 247);border-style: inset;}
+</string>
+        </property>
+        <property name="text">
+         <string>每日诗词</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="0">
+       <widget class="QRadioButton" name="radioButton">
+        <property name="styleSheet">
+         <string notr="true">QRadioButton{background-color: rgb(255, 255, 0);border:2px groove gray;border-radius:5px;padding:2px 4px;border-style: outset;font: 16pt &quot;华文琥珀&quot;;}
+QRadioButton:hover{background-color:rgb(229, 241, 251); color: black;}
+QRadioButton:pressed{background-color:rgb(204, 228, 247);border-style: inset;}
+</string>
+        </property>
+        <property name="text">
+         <string>每日天气</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item>
+    <widget class="QDialogButtonBox" name="buttonBox">
+     <property name="maximumSize">
+      <size>
+       <width>16777215</width>
+       <height>50</height>
+      </size>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QPushButton{width:160px;high:160px;background-color: rgb(255, 255, 0);border:2px groove gray;border-radius:10px;padding:2px 4px;border-style: outset;}
+QPushButton:hover{background-color:rgb(229, 241, 251); color: black;}
+QPushButton:pressed{background-color:rgb(204, 228, 247);border-style: inset;}
+</string>
+     </property>
+     <property name="orientation">
+      <enum>Qt::Horizontal</enum>
+     </property>
+     <property name="standardButtons">
+      <set>QDialogButtonBox::Cancel|QDialogButtonBox::Ok</set>
+     </property>
+    </widget>
+   </item>
+  </layout>
+  <zorder>widget</zorder>
+  <zorder>buttonBox</zorder>
+ </widget>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>buttonBox</sender>
+   <signal>accepted()</signal>
+   <receiver>Dialog1x</receiver>
+   <slot>accept()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>248</x>
+     <y>254</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>157</x>
+     <y>274</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>buttonBox</sender>
+   <signal>rejected()</signal>
+   <receiver>Dialog1x</receiver>
+   <slot>reject()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>316</x>
+     <y>260</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>286</x>
+     <y>274</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>

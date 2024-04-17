@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog4</class>
+ <widget class="QDialog" name="Dialog4">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item>
+      <widget class="QLabel" name="label">
+       <property name="styleSheet">
+        <string notr="true">font: 16pt &quot;华文琥珀&quot;;</string>
+       </property>
+       <property name="text">
+        <string>将在</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QTextEdit" name="textEdit">
+       <property name="maximumSize">
+        <size>
+         <width>16777215</width>
+         <height>40</height>
+        </size>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_2">
+       <property name="styleSheet">
+        <string notr="true">font: 16pt &quot;华文琥珀&quot;;</string>
+       </property>
+       <property name="text">
+        <string>点开启深色模式</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout_2">
+     <item>
+      <widget class="QLabel" name="label_3">
+       <property name="styleSheet">
+        <string notr="true">font: 16pt &quot;华文琥珀&quot;;</string>
+       </property>
+       <property name="text">
+        <string>将在</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QTextEdit" name="textEdit_2">
+       <property name="maximumSize">
+        <size>
+         <width>16777215</width>
+         <height>40</height>
+        </size>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_4">
+       <property name="styleSheet">
+        <string notr="true">font: 16pt &quot;华文琥珀&quot;;</string>
+       </property>
+       <property name="text">
+        <string>点关闭深色模式</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout_3"/>
+   </item>
+   <item>
+    <widget class="QCheckBox" name="checkBox_2">
+     <property name="minimumSize">
+      <size>
+       <width>0</width>
+       <height>60</height>
+      </size>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QCheckBox{background-color: rgb(255, 255, 0);border:2px groove gray;border-radius:30px;padding:2px 4px;border-style: outset;font: 16pt &quot;华文琥珀&quot;;}
+QCheckBox:hover{background-color:rgb(229, 241, 251); color: black;}
+QCheckBox:pressed{background-color:rgb(204, 228, 247);border-style: inset;}
+</string>
+     </property>
+     <property name="text">
+      <string>开启定时</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QCheckBox" name="checkBox">
+     <property name="minimumSize">
+      <size>
+       <width>0</width>
+       <height>60</height>
+      </size>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QCheckBox{background-color: rgb(255, 255, 0);border:2px groove gray;border-radius:30px;padding:2px 4px;border-style: outset;font: 16pt &quot;华文琥珀&quot;;}
+QCheckBox:hover{background-color:rgb(229, 241, 251); color: black;}
+QCheckBox:pressed{background-color:rgb(204, 228, 247);border-style: inset;}
+</string>
+     </property>
+     <property name="text">
+      <string>开启深色模式</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout_5"/>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

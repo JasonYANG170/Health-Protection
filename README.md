@@ -1,23 +1,36 @@
-# 公告
 
-QQ群568338055
+<div align="center">
+    <h1>Health-Protection 健康守护</h1>
+    <img src="https://img.shields.io/github/license/JasonYANG170/Health-Protection?label=License&style=for-the-badge">
+    <img src="https://img.shields.io/github/commit-activity/w/JasonYANG170/Health-Protection?style=for-the-badge">
+<img src="https://img.shields.io/github/languages/count/JasonYANG170/Health-Protection?logo=python&style=for-the-badge">
+	<br>
+    	<a href="https://discord.com/invite/az3ceRmgVe"><img alt="Discord" src="https://img.shields.io/discord/978108215499816980?style=social&logo=discord&label=echosec"></a>
+  <br>
 
-**C语言MFC源码已同步至V5.2.2版本**
+这是一项基于C++语言的QT应用程序
+  
+<br>
 
-**C++语言QT源码已同步至V8.0.0版本**
+</div>
 
-**记得给我的项目点下⭐️Starred哦，让我更有动力维护**
+## 功能  
+- ✅ 每日诗词
+- ✅ 每日英语
+- ✅ 每日天气
+- ✅ 每日音乐
+- ✅ 每日星座
+- ✅ 每日新闻
+- ✅ 定时开启Windows深色模式
+- ✅ 限制应用使用时长
+- ✅ 开机自动提醒
 
+## Build
+```
+qt打开src的.pro文件选择MinGW或MSVC2019编译运行即可
+```
 
-**现已将WindowsToolBoxLite、AutoDarkMode、exeStop、AutoNotice四个项目合并为"健康守护"。**
-
-这是一个健康使用PC的程序，您可以设定您需要提醒的内容，励志短语等使其可以在指定时间内提醒您或开机时提醒您，可以自定义关机时间，可以自定义应用使用时长，可以自动开启深色模式护眼。
-
-现在，程序已经支持了**每日诗词，每日英语，每日天气，每日音乐，每日星座，每日新闻**功能，可以为您在规定时间或开机时自动播报。
-
-项目于2023年2月4日启动并发布首个测试版本
-
-# 正式版及BETA版本使用说明
+## 正式版及BETA版本使用说明
 1.设置好自定义提示内容。
 
 2.点击保存文本进行保存（如选择每日诗词，每日英语请忽略本步骤）
@@ -36,10 +49,10 @@ QQ群568338055
 3.打开Insider Preview预览版压缩包中".pro"后缀的文件，在QT中调试即可。
 
 ## 支持环境
-1.非精简版WindowsXP以上操作系统（推荐Windows10以上系统）
+1.非精简版，WindowsXP以上操作系统（推荐Windows10以上系统）
 
 2.64位操作系统
-# 程序界面 
+# MFC版本程序界面 
 ![屏幕截图(675)](https://user-images.githubusercontent.com/39414350/216811553-992bfea5-3027-4a51-bfa9-ba9dc7903818.png)
 ![屏幕截图(674)](https://user-images.githubusercontent.com/39414350/216811556-d4ae74f6-9d1b-4e99-9247-922938416049.png)
 ![屏幕截图(775)](https://user-images.githubusercontent.com/39414350/222312705-ba5fba4e-3e22-4138-985e-775abac0d3d3.png)

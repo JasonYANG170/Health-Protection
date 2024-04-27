@@ -60,3 +60,6 @@ qt打开src的.pro文件选择MinGW或MSVC2019编译运行即可
 
 ![屏幕截图(582)](https://user-images.githubusercontent.com/39414350/236625679-28d68b3b-8bc6-418f-9510-33351ca81a9a.png)
 
+## 喜欢这个项目，请为我点个Star ⭐ 
+
+[![Star History Chart](https://api.star-history.com/svg?repos=JasonYANG170/Health-Protection&type=Date)](https://star-history.com/#star-history/star-history&Date)

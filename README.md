@@ -65,3 +65,7 @@ qt打开src的.pro文件选择MinGW或MSVC2019编译运行即可
 ## 喜欢这个项目，请为我点个Star ⭐ 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=JasonYANG170/Health-Protection&type=Date)](https://star-history.com/#star-history/star-history&Date)
+## 开源协议
+本项目遵循GPL2.0开源协议，使用本程序时请注明出处并进行版权声明  
+本项目完全支持个人爱好者的研究与学习，如果您有更好的建议，欢迎PR
+

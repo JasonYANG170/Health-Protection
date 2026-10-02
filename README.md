@@ -1,3 +1,4 @@
+[简体中文](README.md) | [English](README_en.md)
 
 <div align="center">
     <h1>Health-Protection 健康守护</h1>
